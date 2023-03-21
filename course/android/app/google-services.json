@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228813553152",
+    "project_id": "mobile-course-c2353",
+    "storage_bucket": "mobile-course-c2353.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228813553152:android:b3dca25426aefeb70c62e5",
+        "android_client_info": {
+          "package_name": "com.adamfrikha.course"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228813553152-b5nogmf7mjmkc7pd7q65udnoo13rp17k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN01WrTQUqBbu2Y3R9N7jDw7w5f7KnfvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228813553152-b5nogmf7mjmkc7pd7q65udnoo13rp17k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
