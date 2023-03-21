@@ -1,0 +1,47 @@
+UserCredential(
+    additionalUserInfo: AdditionalUserInfo(
+ isNewUser: true,
+
+ profile: {},
+ providerId: null,
+ username: null),
+ credential: null,
+ user: User(displayName: null,
+
+email: null,
+ emailVerified: false,
+ isAnonymous: true,
+ metadata: UserMetadata(creationTime: 2023-03-21 15:42:41.000Z,
+ lastSignInTime: 2023-03-21 15:42:41.000Z),
+ phoneNumber: null,
+
+photoURL: null,
+ providerData,
+ [],
+ refreshToken:
+APJWN8eCj30ApzeI58kv9C3IX08Mi2ykedZ3RjR6XioiI_kG0mm1NgtksTvYqUB61ApeQ8w75wFOSfojox1eIpkqRZY9BS6zrpegpn8h2BMrDMpoDgsCo6z6EJe3Bweeqbqa0MwyfUqKjm8RxU71Pqa6nZlzOX2Ah59NX1m7elDU6XHWOKrgm-bpmVU
+U4lIvHVui8WCF5qUF,
+ tenantId: null,
+ uid: 4hd0PXBmNvbe3tLUaEdtY0DiSuS2))
+UserCredential: UserCredential(additionalUserInfo: AdditionalUserInfo(isNewUser: false,
+ profile: null,
+ providerId: null,
+ username: null),
+ credential: null,
+ user: User(displayName: null,
+
+email: null,
+ emailVerified: false,
+ isAnonymous: true,
+ metadata: UserMetadata(creationTime: 2023-03-21 15:42:41.000Z,
+ lastSignInTime: 2023-03-21 15:42:41.000Z),
+ phoneNumber: null,
+
+photoURL: null,
+ providerData,
+ [],
+ refreshToken:
+APJWN8eCj30ApzeI58kv9C3IX08Mi2ykedZ3RjR6XioiI_kG0mm1NgtksTvYqUB61ApeQ8w75wFOSfojox1eIpkqRZY9BS6zrpegpn8h2BMrDMpoDgsCo6z6EJe3Bweeqbqa0MwyfUqKjm8RxU71Pqa6nZlzOX2Ah59NX1m7elDU6XHWOKrgm-bpmVU
+U4lIvHVui8WCF5qUF,
+ tenantId: null,
+ uid: 4hd0PXBmNvbe3tLUaEdtY0DiSuS2))
